@@ -1,61 +1,167 @@
-# Hi 👋, I'm Mayank Bajaj
+# Hi there 👋, I'm Mayank Bajaj
 
-A passionate and motivated developer with a strong interest in **Open Source**, **Blockchain**, and modern web technologies. I enjoy learning by building, contributing to community-driven projects, and continuously improving my problem-solving skills.
+### Backend Engineer | TypeScript • Node.js • PostgreSQL • Next.js
 
----
+I build **production-grade backend systems**, scalable APIs, and SaaS applications with a strong focus on clean architecture, security, and maintainability.
 
-## 👨‍💻 About Me
-
-- Currently learning **Data Structures & Algorithms** and the **MERN Stack**
-- Interested in **Open Source Development**, **Blockchain**, and **AI**
-- Looking to collaborate on **beginner-friendly projects** and **open-source programs**
-- Sharing my tech journey and learnings on **LinkedIn** and **Medium**
-- Fun fact: I enjoy exploring the latest advancements in **AI & Blockchain** and love **travelling**
+I'm passionate about solving real-world engineering problems through scalable system design and shipping products that people actually use.
 
 ---
 
-## 🛠️ Skills & Technologies
+# What I'm Building
 
-### Programming Languages & Web Technologies
-![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react)
+* 🛒 **Production-Grade Ecommerce Backend**
 
-### Backend, APIs & Validation
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postman)
+  * Layered Architecture
+  * Repository Pattern
+  * Service Layer
+  * DTO Mapping
+  * Prisma ORM
+  * PostgreSQL
+  * JWT + Refresh Token Authentication
+  * RBAC
+  * Pagination
+  * Transactions
+  * Cloudinary Integration
+  * Centralized Error Handling
+  * Logging
+  * Docker
 
-- Zod (Schema Validation)
+* 🚖 **RYDEX – Vehicle Booking Platform**
 
-### Tools, Platforms & DevOps
-![My Skills](https://skillicons.dev/icons?i=git,github,bash)
+  * Next.js
+  * Socket.io Real-Time Tracking
+  * Authentication
+  * Razorpay Payments
+  * Maps
+  * Driver & Customer Dashboards
+  * Production-ready API Design
 
-- Cloudinary (Media Storage & Optimization)
+* 💼 **Building SaaS Products**
 
-### Concepts & Knowledge
-- MERN Stack Architecture  
-- Computer Networks  
-- Data Structures & Algorithms  
-- Web Animations (GSAP)
-
----
-
-## 🤝 Open to Collaboration
-
-I’m actively looking to collaborate on:
-- Beginner-friendly open-source projects  
-- Learning-focused team projects  
-- Community-driven development programs  
-
-If you’re building something interesting or learning together, feel free to reach out.
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: *mayankbajaj672@gmail.com*
-- 💼 LinkedIn: *https://www.linkedin.com/in/mayank-bajaj-439988309/*
-- 🐦 X (Twitter): *https://x.com/MayankBajaj22*
-- ✍️ Medium: *https://medium.com/@mayankbajaj672*
+  * B2B Automation
+  * AI Integrations
+  * WhatsApp Automation
+  * Scalable Backend Systems
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
-Feel free to explore my repositories and connect with me.
+# Tech Stack
+
+### Languages
+
+![Languages](https://skillicons.dev/icons?i=typescript,javascript,java,c,cpp)
+
+### Frontend
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind)
+
+### Backend
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
+
+### Database
+
+![Database](https://skillicons.dev/icons?i=postgres,mongodb,prisma)
+
+### DevOps & Tools
+
+![Tools](https://skillicons.dev/icons?i=docker,git,github,postman,bash,vscode)
+
+---
+
+# 🏗 Backend Concepts
+
+* Clean Architecture
+* Layered Architecture
+* Repository Pattern
+* Service Layer
+* DTOs & Validation
+* Authentication & Authorization
+* JWT & Refresh Token Rotation
+* RBAC
+* Ownership Checks
+* REST API Design
+* Pagination
+* Transactions
+* File Uploads
+* Logging
+* Error Handling
+* Secure Backend Development
+
+---
+
+# Currently Learning
+
+* Distributed Systems
+* Advanced System Design
+* Redis
+* Message Queues
+* Caching Strategies
+* AWS Cloud
+* CI/CD
+* Kubernetes
+
+---
+
+# 📌 Featured Projects
+
+⭐ **Production Ecommerce Backend**
+
+Production-ready backend with scalable architecture, authentication, validation, pagination, transactions, and secure API design.
+
+---
+
+⭐ **RYDEX**
+
+A modern vehicle booking platform with real-time tracking, secure authentication, payments, and scalable backend architecture.
+
+---
+
+⭐ **Upcoming SaaS**
+
+Building software that solves real business problems with scalable backend architecture and AI-powered automation.
+
+---
+
+# 📈 Current Focus
+
+* Building SaaS products
+* Backend Engineering
+* Scalable System Design
+* Open Source
+* Startup Engineering
+
+---
+
+# 🤝 Open To
+
+I'm actively looking for opportunities as a:
+
+* Backend Engineering Intern
+* Software Engineer Intern
+* Founding Engineer Intern
+* Backend Developer
+* Startup Engineering Roles
+
+I enjoy working in fast-moving startup environments where I can own features, solve engineering problems, and continuously learn.
+
+---
+
+# 📫 Let's Connect
+
+📧 **Email:**
+**[mayankbajaj672@gmail.com](mailto:mayankbajaj672@gmail.com)**
+
+💼 **LinkedIn:**
+**linkedin.com/in/mayank-bajaj-439988309**
+
+🐦 **X (Twitter):**
+**x.com/MayankBajaj22**
+
+✍️ **Medium:**
+**medium.com/@mayankbajaj672**
+
+---
+
+> *"Build things that solve real problems, write code that scales, and never stop learning."* 🚀
